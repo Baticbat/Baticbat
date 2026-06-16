@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+## who you are
+## what are you currently work on
+## what tools do you use
+## how to reach you
+## keep in mind badges are important
 <!--
 **Baticbat/Baticbat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
